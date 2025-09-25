@@ -36,7 +36,7 @@ It follows the assignment requirement of having at least three sections (**About
 - All AI outputs were reviewed, refined, and tested before inclusion. 
 
 
-## Direct Access
+## Live deployment link
 You can access my portfolio directly from this URL:
 
 https://khawlaalmalki.github.io/assignment-1/
