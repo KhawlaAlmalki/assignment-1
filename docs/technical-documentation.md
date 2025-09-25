@@ -7,6 +7,7 @@ The goal was to create a simple, responsive web application showcasing personal 
 ---
 
 ## 2. Repository Structure
+```
 assignment-1/
 ├── README.md
 ├── index.html
@@ -20,6 +21,8 @@ assignment-1/
 │   ├── ai-usage-report.md
 │   └── technical-documentation.md
 └── .gitignore
+
+```
 
 ---
 
