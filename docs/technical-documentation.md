@@ -8,18 +8,18 @@ The goal was to create a simple, responsive web application showcasing personal 
 
 ## 2. Repository Structure
 assignment-1/
-├── README.md # Project description & setup instructions
-├── index.html # Main entry point (HTML structure)
+├── README.md
+├── index.html
 ├── css/
-│ └── styles.css # Styling (layout, colors, responsiveness)
+│   └── styles.css
 ├── js/
-│ └── script.js # JavaScript for interactivity
+│   └── script.js
 ├── assets/
-│ └── images/ # Profile picture and project placeholders
+│   └── images/
 ├── docs/
-│ ├── ai-usage-report.md # Report on AI usage (tools, benefits, outcomes)
-│ └── technical-documentation.md # Technical details (this file)
-└── .gitignore # Ignore unnecessary files
+│   ├── ai-usage-report.md
+│   └── technical-documentation.md
+└── .gitignore
 
 ---
 
