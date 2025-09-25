@@ -21,10 +21,12 @@ It follows the assignment requirement of having at least three sections (**About
 ## ⚙️ Setup Instructions
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/YourUsername/assignment-1.git
+   git clone https://github.com/KhawlaAlmalki/assignment-1
 2. Navigate into the project folder:
+   ```bash
    cd assignment-1
-3. Open index.html in your browser
+4. Open index.html in your browser
+   
    No additional setup is required since this is a static website.
 
 ## 🤖 AI Usage

@@ -2,7 +2,7 @@
 
 ## Tools used & use cases
 - **ChatGPT (GPT-5)**: Used to generate initial HTML/CSS/JS structures for the portfolio site, provide design inspiration (Apple-like themes), and suggest ways to implement features like dark mode, responsive layout, and scroll reveal animations.
-- **Visual Studio Code / WebStorm terminal**: Used to run Git commands, create folders/files, and link the repository to GitHub.
+- **WebStorm terminal**: Used to run Git commands, create folders/files, and link the repository to GitHub.
 - **Placeholder image services (e.g., picsum.photos)**: Used for temporary project images until real screenshots are added.
 
 ## Benefits & challenges
