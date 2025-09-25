@@ -26,6 +26,7 @@ It follows the assignment requirement of having at least three sections (**About
    ```bash
    cd assignment-1
 4. Open index.html in your browser
+   
    No additional setup is required since this is a static website.
 
 ## 🤖 AI Usage
