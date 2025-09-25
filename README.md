@@ -19,13 +19,17 @@ It follows the assignment requirement of having at least three sections (**About
 ---
 
 ## ⚙️ Setup Instructions
-1. Clone or download this repository:
+1. Open your terminal (Command Prompt, PowerShell, or Git Bash).
+2. Go to the location where you want the folder to be created. For example:
+    ```bash
+   cd Documents
+3. Clone or download this repository:
    ```bash
    git clone https://github.com/KhawlaAlmalki/assignment-1
-2. Navigate into the project folder:
+4. Navigate into the project folder:
    ```bash
    cd assignment-1
-4. Open index.html in your browser
+5. Open index.html in your browser
    
    No additional setup is required since this is a static website.
 
