@@ -29,7 +29,14 @@ It follows the assignment requirement of having at least three sections (**About
    
    No additional setup is required since this is a static website.
 
+
 ## 🤖 AI Usage
 - AI tools were used to support code generation, debugging, and documentation.
 - Detailed report available in docs/ai-usage-report.md
 - All AI outputs were reviewed, refined, and tested before inclusion. 
+
+
+## Direct Access
+You can access my portfolio directly from this URL:
+
+https://khawlaalmalki.github.io/assignment-1/
